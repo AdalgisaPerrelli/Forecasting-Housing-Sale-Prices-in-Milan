@@ -30,6 +30,8 @@ effects in continuous variables and complex categorical relationships.
 - `code_Milan-Housing.R`: R script containing data preprocessing, feature engineering,
   model estimation and evaluation
 - `report_Milan-Housing.pdf`: Detailed explanation of the methodology and results
+- `Training.csv`: Training data
+- `Test.csv`: Test data
 
 ## Tools
 - R
