@@ -5,7 +5,7 @@ using statistical learning and data science techniques.
 
 ## Overview
 The analysis is based on a real estate dataset that underwent extensive **data cleaning,
-imputation, and feature engineering**, including variable selection, transformation of
+imputation and feature engineering**, including variable selection, transformation of
 categorical features and construction of engineered predictors to improve model performance.
 
 ## Methodology
